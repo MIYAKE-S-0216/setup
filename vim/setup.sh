@@ -8,7 +8,8 @@ PATH_TO_PLUGIN="$PATH_TO_DOT_VIM"/plugin
 #echo "$SCRIPT_DIR"
 #echo "$PATH_TO_DOT_VIM"
 
-sudo apt install vim-gtk3 -y
+sudo apt install vim -y
+#sudo apt install vim-gtk3 -y
 sudo apt install global -y
 sudo apt install silversearcher-ag -y
 sudo apt install fzf -y
