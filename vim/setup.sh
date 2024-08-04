@@ -12,7 +12,7 @@ sudo apt install vim-gtk3 -y
 sudo apt install global -y
 sudo apt install silversearcher-ag -y
 sudo apt install fzf -y
-sudo apt install -y nodejs npm
+#sudo apt install -y nodejs npm
 
 rm -rf ~/.cache/dein
 rm ~/.vimrc
